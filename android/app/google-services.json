@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508215755932",
+    "firebase_url": "https://doapalmas-default-rtdb.firebaseio.com",
+    "project_id": "doapalmas",
+    "storage_bucket": "doapalmas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508215755932:android:70f15a8d542430243c9959",
+        "android_client_info": {
+          "package_name": "com.mycompany.doapalmas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508215755932-2418p4r70d3h71644ah19kejp11djnfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.doapalmas",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "508215755932-ribis3g2l1knhk8amuq3lg1lqgvh1ebu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRR05swAAiL6QWgpnLfRoI5qZHkZthOs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508215755932-ribis3g2l1knhk8amuq3lg1lqgvh1ebu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508215755932-mksrkjcdfufsp0g04fqaaf2p11f5132q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.doapalmas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>508215755932-mksrkjcdfufsp0g04fqaaf2p11f5132q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.508215755932-mksrkjcdfufsp0g04fqaaf2p11f5132q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>508215755932-2418p4r70d3h71644ah19kejp11djnfm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoxBVXabvWI5W-wOnUTdwtQi1o8wHbPL4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>508215755932</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.doapalmas</string>
+	<key>PROJECT_ID</key>
+	<string>doapalmas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doapalmas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:508215755932:ios:66ec65e7e6ecc3243c9959</string>
+	<key>DATABASE_URL</key>
+	<string>https://doapalmas-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
